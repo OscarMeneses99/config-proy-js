@@ -1,0 +1,21 @@
+{
+  "name": "commit-config",
+  "version": "2.1.3",
+  "main": "index.js",
+  "scripts": {
+    "version": "node src/scripts/update-version.mjs",
+    "commit": "node src/scripts/commit.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint-config-prettier": "^9.1.0",
+    "inquirer": "9.2.23",
+    "lint-staged": "15.2.5",
+    "prettier": "^3.3.0",
+    "prettier-config-standard": "^7.0.0",
+    "standard": "^17.1.0"
+  }
+}
