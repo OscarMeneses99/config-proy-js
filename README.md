@@ -46,7 +46,11 @@ En el archivo package.json copia los siguientes scripts:
   }
 ```
 
-[!warning][Si usas Typescript incluye el path de los archivos en tsconfig.json en la sección de include]
+> **Nota:** Si usas Typescript incluye el path de los archivos en tsconfig.json en la sección de include.
+>
+
+
+
 
 Por ejemplo:
 
