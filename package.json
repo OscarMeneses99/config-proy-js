@@ -1,6 +1,6 @@
 {
   "name": "commit-config",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "main": "index.js",
   "scripts": {
     "version": "node src/scripts/update-version.mjs",
